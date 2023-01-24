@@ -1,4 +1,6 @@
-###Thank you for downloading Visul Core Notify!###
-Visul Core Notify is standalone.
+###Thank you for downloading ABson Notify!###
+This notify is standalone.
 
-If you have any questions related to this resource, feel free to join our Discord: https://discord.gg/54HYtcsnzN
+**ITS FORKED!**
+
+Original script --> https://forum.cfx.re/t/free-standalone-visual-core-notify/4864267
